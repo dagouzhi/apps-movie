@@ -2,7 +2,7 @@
   "name": "@apps/apps-movie",
   "version": "0.0.7",
   "description": "",
-  "main": "index.js",
+  "main": "dist.zip",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
