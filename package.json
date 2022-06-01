@@ -1,6 +1,6 @@
 {
   "name": "@apps/apps-movie",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "",
   "main": "dist.zip",
   "scripts": {
